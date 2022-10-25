@@ -1,0 +1,64 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  vertical-align: baseline;
+  border: 0;
+}
+body {
+  background-color: #f3eae3;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  margin-top: 200px;
+}
+.foto-perfume {
+  height: 600px;
+  width: 400px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+.descricao-perfume {
+  background-color: white;
+  height: 555px;
+  width: 400px;
+  padding-left: 40px;
+  padding-top: 45px;
+  padding-right: 40px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+.botao {
+  background-color: #3d8168;
+  height: 60px;
+  width: 310px;
+  border-radius: 10px;
+  color: white;
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+  cursor: pointer;
+}
+.preco-promo {
+  color: #3d8168;
+  font-family: 'Fraunces', serif;
+}
+.preco-normal {
+  color: #999a9f9c;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+}
+.perfume {
+  font-family: 'Montserrat', sans-serif;
+  color: #9595a1;
+  letter-spacing: 5px;
+  font-size: 14px;
+}
+.nome-perfume {
+  font-family: 'Fraunces', serif;
+  font-size: 38px;
+}
+.sobre {
+  font-family: 'Montserrat', sans-serif;
+  color: #9595a1;
+  line-height: 28px;
+}
