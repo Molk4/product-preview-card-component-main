@@ -62,7 +62,7 @@ body {
   color: #9595a1;
   line-height: 28px;
 }
-@media (min-width: 375px) {
+@media (max-width: 375px) {
   .foto-perfume {
     width: 340px;
     border-top-left-radius: 10px;
